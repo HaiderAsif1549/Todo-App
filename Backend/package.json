@@ -1,0 +1,19 @@
+{
+  "name": "shiekhbackend",
+  "version": "1.0.0",
+  "description": "Backend proudly made by one and only shiekh haider.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "json-parser": "^3.1.2",
+    "nodemon": "^3.1.9",
+    "odbc": "^2.4.9"
+  }
+}
